@@ -1,5 +1,4 @@
-
-'A random comment
+'Added a useful comment
 Public Function CalcTest
   TestedApps.calc.Run
   
