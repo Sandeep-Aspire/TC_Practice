@@ -1,4 +1,4 @@
-'Added a useful comment
+'Changed comment after adding Tortoise Git
 Public Function CalcTest
   TestedApps.calc.Run
   
