@@ -1,3 +1,5 @@
 'Added some comment to this new file
 'Again providing new changes
 'This time i will provide path with commit.
+'i want to check commmit command perameters
+
